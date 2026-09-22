@@ -38,7 +38,7 @@ public class Dato {
 	            if (vehiculo != null) {
                     vehiculos.add(vehiculo);
                 } else {
-                    System.out.println("Tipo de vehículo desconocido: " + tipo);
+                    System.out.println("Tipo de vehículo desconoasdasdawdasdawgdagshdaghwghascido: " + tipo);
                 }
 	        }
 	    }    
