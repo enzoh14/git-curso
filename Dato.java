@@ -87,7 +87,7 @@ public class Dato {
                 }
             }
         } catch (FileNotFoundException e) {
-            System.out.println("No se encontró el archivo especificado: " + fileName);
+            System.out.println("No se encontró el archivo:" + fileName);
             throw e;
         }
              
