@@ -132,8 +132,8 @@ public class Dato {
                }
            }
        } catch (FileNotFoundException e) {
-           System.out.println("No se encontró el ERICERICERICERIC archivo especificado: " + fileName);
-           throw e; //
+           System.out.println("No se pudo encontrar el archivo especificado: " + fileName);
+           throw e; // 
        }
 
        return clientes;
