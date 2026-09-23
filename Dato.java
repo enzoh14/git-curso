@@ -43,7 +43,7 @@ public class Dato {
 	        }
 	    }    
 	}catch (FileNotFoundException e) {
-        System.out.println("EMOJI No se encontró el archivo especificado: " + fileName);
+        System.out.println(" EMOJI EMOJI No se encontró el archivo especificado: " + fileName);
         throw e;
     }
 	    return vehiculos;
